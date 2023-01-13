@@ -1,0 +1,6 @@
+sugar 10 rs
+water 5rs
+milk 5 rs
+tea powder 5rs
+ginger 2 rs
+
